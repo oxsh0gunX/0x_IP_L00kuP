@@ -21,3 +21,13 @@ Made by **0xSh0gunX (Safvan)**.
 git clone https://github.com/oxsh0gunX/0x_IP_L00kuP
 cd 0x_IP_L00kuP
 pip install -r requirements.txt
+```
+If you want to use the color version: ```pip install colorama```
+▶️ How to Run: ```python3 ipinfo.py```
+Color + Animation Version:  ```python3 ipinfo_color.py```
+
+Example Output: ```IP Address     : 8.8.8.8
+City           : Mountain View
+Country        : US
+Timezone       : America/Los_Angeles
+ISP / Org      : Google LLC```
