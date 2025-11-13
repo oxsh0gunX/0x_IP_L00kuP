@@ -36,6 +36,8 @@ Color + Animation Version:  ```python3 0x_IP_L00kup_Color.py```
 | Timezone     | America/Los_Angeles     |
 | ISP / Org    | Google LLC              |
 
-<center><b>👨‍💻 <h3>Author:</h3> 0xSh0gunX <br> 
-  <h3>GitHub:</h3> https://github.com/oxsh0gunX <br>
-<h3> Linkedin:</h3> https://www.linkedin.com/in/muhammed-safvan-b4629b27a </b></center>
+<center>
+  <b>👨‍💻 Author: 0xSh0gunX</b><br>
+  <b>GitHub: https://github.com/oxsh0gunX</b><br>
+  <b>LinkedIn: https://www.linkedin.com/in/muhammed-safvan-b4629b27a</b>
+</center>
