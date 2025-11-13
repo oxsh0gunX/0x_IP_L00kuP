@@ -34,7 +34,10 @@ Color + Animation Version:  ```python3 0x_IP_L00kup_Color.py```
 | City         | Mountain View           |
 | Country      | US                      |
 | Timezone     | America/Los_Angeles     |
-
-
 | ISP / Org    | Google LLC              |
+
+<center><b>👨‍💻 Author
+
+<font color="blue"> 0xSh0gunX </font>(Safvan)
+GitHub: https://github.com/oxsh0gunX  </b></center>
 
