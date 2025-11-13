@@ -1,7 +1,7 @@
 # 🛡️ 0x_IP_L00kuP
 A simple command-line tool that shows information about any IP address using the free **ipinfo.io API**.
 
-Made by **0xSh0gunX (Safvan)**.
+Made by **0xSh0gunX**.
 
 ---
 
