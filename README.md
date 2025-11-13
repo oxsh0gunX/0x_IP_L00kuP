@@ -28,6 +28,7 @@ Color + Animation Version:  ```python3 ipinfo_color.py```
 
 Example Output: ```IP Address     : 8.8.8.8 ```<br>
 ```City           : Mountain View``` <br>
-Country        : US
-Timezone       : America/Los_Angeles
-ISP / Org      : Google LLC```
+```Country        : US``` <br>
+```Country        : US``` <br>
+```Timezone       : America/Los_Angeles``` <br>
+```ISP / Org      : Google LLC```  <br>
