@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 If you want to use the color version: ```pip install colorama```<h2> <br>
 ▶️ How to Run: ```python3 0x_IP_L00kup.py```  </h2> <br>
-Color + Animation Version:  ```python3 ipinfo_color.py```
+Color + Animation Version:  ```python3 0x_IP_L00kup_Color.py```
 <br>
 ## 📊 Example Output (Table)
 
