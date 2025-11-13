@@ -26,9 +26,15 @@ If you want to use the color version: ```pip install colorama```<h2> <br>
 ▶️ How to Run: ```python3 ipinfo.py```  </h2> <br>
 Color + Animation Version:  ```python3 ipinfo_color.py```
 <br>
-Example Output: ```IP Address     : 8.8.8.8 ```<br>
-```City           : Mountain View``` <br>
-```Country        : US``` <br>
-```Country        : US``` <br>
-```Timezone       : America/Los_Angeles``` <br>
-```ISP / Org      : Google LLC```  <br>
+## 📊 Example Output (Table)
+
+| Field        | Value                   |
+|--------------|--------------------------|
+| IP Address   | 8.8.8.8                 |
+| City         | Mountain View           |
+| Country      | US                      |
+| Timezone     | America/Los_Angeles     |
+
+
+| ISP / Org    | Google LLC              |
+
