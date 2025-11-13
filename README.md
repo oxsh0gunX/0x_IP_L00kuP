@@ -22,10 +22,10 @@ git clone https://github.com/oxsh0gunX/0x_IP_L00kuP
 cd 0x_IP_L00kuP
 pip install -r requirements.txt
 ```
-If you want to use the color version: ```pip install colorama```
-▶️ How to Run: ```python3 ipinfo.py```
+If you want to use the color version: ```pip install colorama```<h2> <br>
+▶️ How to Run: ```python3 ipinfo.py```  </h2> <br>
 Color + Animation Version:  ```python3 ipinfo_color.py```
-
+<br>
 Example Output: ```IP Address     : 8.8.8.8 ```<br>
 ```City           : Mountain View``` <br>
 ```Country        : US``` <br>
