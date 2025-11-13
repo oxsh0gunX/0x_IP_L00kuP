@@ -40,4 +40,5 @@ Color + Animation Version:  ```python3 0x_IP_L00kup_Color.py```
 
 <font color="blue"> 0xSh0gunX </font>(Safvan)
 GitHub: https://github.com/oxsh0gunX  </b></center>
+Linkedin: https://www.linkedin.com/in/muhammed-safvan-b4629b27a
 
